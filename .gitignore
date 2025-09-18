@@ -1,0 +1,5 @@
+.github/
+.specify/
+specs/
+.vscode/
+__pycache__/

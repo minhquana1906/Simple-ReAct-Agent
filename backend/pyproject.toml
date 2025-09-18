@@ -1,0 +1,10 @@
+[project]
+name = "react-agent-backend"
+version = "0.1.0"
+description = "FastAPI backend for ReAct Agent"
+requires-python = ">=3.11"
+
+[tool.uv]
+
+[project.dependencies]
+fastapi = "*"

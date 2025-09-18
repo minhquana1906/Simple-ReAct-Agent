@@ -1,0 +1,10 @@
+[project]
+name = "react-agent-frontend"
+version = "0.1.0"
+description = "Chainlit frontend for ReAct Agent"
+requires-python = ">=3.11"
+
+[tool.uv]
+
+[project.dependencies]
+chainlit = "*"
